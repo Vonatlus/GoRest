@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vonatlus/gorest/static/css/main.e6c13ad2.css",
+    "main.js": "/Vonatlus/gorest/static/js/main.26a219be.js",
+    "index.html": "/Vonatlus/gorest/index.html",
+    "main.e6c13ad2.css.map": "/Vonatlus/gorest/static/css/main.e6c13ad2.css.map",
+    "main.26a219be.js.map": "/Vonatlus/gorest/static/js/main.26a219be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.26a219be.js"
+  ]
+}
