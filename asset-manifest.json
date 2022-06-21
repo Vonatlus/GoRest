@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GoRest/static/css/main.e6c13ad2.css",
-    "main.js": "/GoRest/static/js/main.d552830a.js",
+    "main.js": "/GoRest/static/js/main.a91d55ee.js",
     "index.html": "/GoRest/index.html",
     "main.e6c13ad2.css.map": "/GoRest/static/css/main.e6c13ad2.css.map",
-    "main.d552830a.js.map": "/GoRest/static/js/main.d552830a.js.map"
+    "main.a91d55ee.js.map": "/GoRest/static/js/main.a91d55ee.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d552830a.js"
+    "static/js/main.a91d55ee.js"
   ]
 }
