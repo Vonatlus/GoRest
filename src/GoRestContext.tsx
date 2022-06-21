@@ -58,6 +58,8 @@ export const GoRestProvider = ({ children }: GoRestProviderProps) => {
     }
   }, [gender, users])
 
+
+  console.log(user);
   return (
     < GoRestContext.Provider value={contextValue}>
       {children}
