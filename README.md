@@ -1,6 +1,6 @@
 # GoRest
 
-- [DEMO LINK](https://vonatlus.github.io/fintech/)
+- [DEMO LINK](https://vonatlus.github.io/GoRest/#)
 
 ## Description
 
