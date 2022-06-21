@@ -19,17 +19,19 @@ export const HomePage: FC = () => {
     navigate('/users');
   }
 
+  const homeNavigate = () => {
+    navigate('/');
+  }
+
   return (
     <>
       <AppBar position="static">
         <Container maxWidth="xl">
           <Toolbar disableGutters>
-            <LanguageIcon sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }} />
+            <LanguageIcon sx={{ display: { xs: 'none', md: 'flex' }, mr: 1, }} />
             <Typography
               variant="h6"
               noWrap
-              component="a"
-              href="/"
               sx={{
                 mr: 2,
                 display: { xs: 'none', md: 'flex' },
@@ -38,7 +40,9 @@ export const HomePage: FC = () => {
                 letterSpacing: '.3rem',
                 color: 'inherit',
                 textDecoration: 'none',
+                cursor: 'pointer'
               }}
+              onClick={homeNavigate}
             >
               GoRest
             </Typography>
